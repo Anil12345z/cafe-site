@@ -1,0 +1,16 @@
+-webkit-font-smoothing: antialiased;
+text-size-adjust: 100%;
+font-family: "Lora",serif;
+font-weight: 400;
+line-height: 1.5em;
+-webkit-tap-highlight-color: transparent;
+text-decoration: none;
+cursor: pointer;
+border-radius: 2px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+white-space: nowrap;
+padding: 18px 54px;
+margin: 0 0 24px;
+background-color: #db5e5e;
